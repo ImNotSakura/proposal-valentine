@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import { useState } from "react";
 
 export default function App() {
   const [noCount, setNoCount] = useState(0);
